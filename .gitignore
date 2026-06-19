@@ -1,0 +1,16 @@
+# Dependencies
+initial_code/client/node_modules/
+initial_code/server/node_modules/
+
+# Environment variables
+initial_code/server/.env
+
+# Build folders
+initial_code/client/dist/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
